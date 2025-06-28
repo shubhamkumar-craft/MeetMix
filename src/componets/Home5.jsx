@@ -36,7 +36,7 @@ const Home5 = () => {
                 <ul className='text-[0.8em ] text-gray-400 font-semibold ' > By Google Developer Group </ul>
                 <ul className='text-[0.8em ] text-gray-400 flex gap-x-2 items-center ' > <MdLocationPin className='text-[#4e2a9e] ' /><span>Taj Taal Kutir, Kolkata, West Bengal</span> </ul> </div>
              <div>   <ul className=' flex flex-col md:flex-row gap-y-3 justify-between  ' > <button className='text-gray-300 font-bold px-5 py-1 rounded-xl bg-[#4e2a9e]  ' > Conference   </button> 
-                <li className='text-[0.8em ] text-gray-400 font-bold px-4 py-1 flex items-center text-center rounded-xl bg-[#4e2a9e] '>19 July 8:30 AM </li>
+                <li className='text-[0.8em ] text-gray-400 font-bold px-4 py-1 flex items-center justify-center text-center rounded-xl bg-[#4e2a9e] '>19 July 8:30 AM </li>
                   </ul> </div>
            </div>
            {/* card component 2 */}
