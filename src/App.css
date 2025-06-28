@@ -1,0 +1,6 @@
+/* src/index.css or src/style.css */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300..900;1,300..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Pacifico&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
