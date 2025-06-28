@@ -17,5 +17,5 @@ MeetMix is a modern single-page web application that helps users stay updated wi
 - GSAP – Scroll animations and transitions
 
 LINK-
-
+https://meet-mix-shubhamkumar-crafts-projects.vercel.app/
 
