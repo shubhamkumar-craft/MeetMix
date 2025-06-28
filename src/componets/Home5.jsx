@@ -43,7 +43,7 @@ const Home5 = () => {
            <div className='backdrop:blur-2xl w-[280px] md:w-[400px] h-[240px] flex flex-col gap-y-3 justify-between backdrop-blur-2xl  rounded-2xl  border-[1px] border-gray-700 px-6 py-5 select-none text-nowrap ' >  
              <div className='space-y-2 ' >   <h1 className='text-gray-300 font-bold text-[1.2em] md:text[2em]  ' >HexaFalls Hackathon</h1>
                 <ul className='text-[0.8em ] text-gray-400 font-semibold ' > By Google Developer Group </ul>
-                <ul className='text-[0.8em ] text-gray-400 flex gap-x-2 items-center ' > <MdLocationPin className='text-[#4e2a9e]' /><span>JIS University ,Kolkata, West Bengal</span> </ul>
+                <ul className='text-[0.8em ] text-gray-400 flex gap-x-2 items-center ' > <MdLocationPin className='text-[#4e2a9e]' /><span>JIS University, Kolkata</span> </ul>
                 </div>
             <div>   <ul className='flex flex-col md:flex-row gap-y-3 justify-between  ' > <button className='text-gray-300 font-bold px-5 py-1 rounded-xl bg-[#4e2a9e]  ' > Hackathon </button> 
                 <li className='text-[0.8em ] text-gray-400 font-bold px-4 py-1 justify-center flex items-center rounded-xl bg-[#4e2a9e]   '>28 June 10:00 PM </li>
